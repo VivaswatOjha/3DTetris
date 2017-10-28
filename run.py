@@ -1,7 +1,6 @@
 import numpy as np
 from tetris import TetrisGame
 
-
 #
 # 1
 # 2 1
